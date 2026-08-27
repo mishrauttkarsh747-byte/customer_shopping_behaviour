@@ -258,35 +258,6 @@ Use payment, shipping, and rating data to improve the overall shopping journey.
 
 ---
 
-# 📂 Project Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── 📁 data/
-│   ├── customer_shopping_behavior.csv
-│   └── customer_shopping_behavior.xlsx
-│
-├── 📁 Data cleaning/
-│   ├── EDA
-│   └── analysis.py
-│
-├── 📁 SQL/
-│   └── SQL analysis files
-│
-├── 📁 Analysis & recommendation/
-│   ├── Business Performance Insights
-│   └── Presentation
-│
-├── 📁 report/
-│   ├── Business problem.pdf
-│   └── Results & recommendation.pdf
-│
-└── 📄 README.md
-```
-
----
-
 # 🔄 Project Workflow
 
 ```text
